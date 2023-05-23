@@ -1,4 +1,4 @@
 # Radio-moods
 
 Music according to current mood.
-Desktop version.
+Desktop version only.
